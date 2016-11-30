@@ -11,7 +11,7 @@ public class Largest_prime_factor
 
 	public static void main(String[] args)
 	{
-		long givenNum = 600851475143L;
+		long givenNum = 600851475143;
 		
 		long num = givenNum;
 		long i = 2;
